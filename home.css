@@ -1,0 +1,56 @@
+.title-nav {
+    font-size: 1.5em;
+}
+
+#apresentacao {
+    padding: 1em 0;
+}
+
+.apresentacao-text h1 {
+    font-family: 'Press Start 2P', system-ui;
+    font-size: 2em;
+}
+
+.apresentacao-text p {
+    font-size: 1.3em;
+}
+
+.pedro-imagem {
+    width: 560px;
+    height: 560px;
+    border-radius: 40% 60% 39% 61% / 53% 28% 72% 47%;
+}
+
+hr {
+    width: 82%;
+    display: block;
+    margin: 2em auto;
+}
+
+#projetos h1 {
+    font-family: 'Press Start 2P', system-ui;
+    font-size: 2em;
+    text-align: center;
+}
+
+#habilidade h1 {
+    font-family: 'Press Start 2P', system-ui;
+    font-size: 2em;
+    text-align: center;
+}
+
+#habilidade .container .col {
+    text-align: center;
+}
+
+.logo-programacao {
+    width: 150px;
+    height: 150px;
+    object-fit: cover; 
+}
+
+#contato h1 {
+    font-family: 'Press Start 2P', system-ui;
+    font-size: 2em;
+    text-align: center;
+}
