@@ -16,8 +16,7 @@
 }
 
 .pedro-imagem {
-    width: 560px;
-    height: 560px;
+    width: auto;
     border-radius: 40% 60% 39% 61% / 53% 28% 72% 47%;
 }
 
@@ -52,8 +51,8 @@ hr {
 }
 
 .logo-programacao {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     object-fit: cover; 
 }
 
