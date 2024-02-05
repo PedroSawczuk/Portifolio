@@ -33,6 +33,14 @@ hr {
     text-align: center;
 }
 
+#projetos p {
+    text-align: center;
+    font-size: 1.5em;
+}
+.card {
+    margin: 0 .5em;
+}
+
 #habilidade h1 {
     font-family: 'Press Start 2P', system-ui;
     font-size: 2em;
@@ -53,4 +61,16 @@ hr {
     font-family: 'Press Start 2P', system-ui;
     font-size: 2em;
     text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: #0f0a0a;
+    height: 70px;
+    line-height: 70px; 
+}
+
+footer p {
+    color: #fefefe;
+    vertical-align: middle;
 }
